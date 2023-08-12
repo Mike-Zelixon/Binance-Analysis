@@ -11,4 +11,6 @@ There are two scripts here that are of use to any active crypto trader.
 
 1. TradeHistoryFromExcel - let's you take a raw excel from Binance history and turn it into a fully readable and undertandable dataframe. 
 
-2. LatestFuturesTradesAPI - if you're an active futures trade you can summarize your latest trades using only your API keys instead of relying on the Binance UI (quite terrible for data analysis, hence this repository and code) 
+2. LatestFuturesTradesAPI - if you're an active futures trader you can summarize your latest trades using only your API keys instead of relying on the Binance UI (quite terrible for data analysis, hence this repository and code)
+
+3. Latest_Trades - a more efficient script that lets you fetch your latet traddes from whatever specified date(s) you desire. No need to go to the Binance website and download an Excel beforehand. 
